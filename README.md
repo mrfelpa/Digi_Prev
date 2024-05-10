@@ -19,7 +19,8 @@
 - Digite uma palavra na caixa de texto ***"Digite uma palavra:".***
 - Observe as previsões das próximas letras no gráfico de barras e no texto abaixo.
   
-![digiprev](https://github.com/mrfelpa/Digi_Prev/assets/65371336/60f65490-53fc-4ebb-b094-f1981b8fe954)
+![digiprev](https://github.com/mrfelpa/Digi_Prev/assets/65371336/882b6d35-19bd-4d03-ab02-ec5ad1eacb0c)
+
 
 # Considerações Adicionais
 
