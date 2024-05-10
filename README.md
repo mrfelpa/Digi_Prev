@@ -15,7 +15,7 @@
 
           cd Digi_Prev
   
-- Execute o aplicativo Shiny: ***RStudio <- FALSE; shinyApp(ui = ui, server = server)***
+- Execute o aplicativo Shiny.
 - Digite uma palavra na caixa de texto ***"Digite uma palavra:".***
 - Observe as previsões das próximas letras no gráfico de barras e no texto abaixo.
   
